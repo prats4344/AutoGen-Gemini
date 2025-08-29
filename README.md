@@ -58,7 +58,5 @@ This project is licensed under the **MIT License** (see [LICENSE](LICENSE)).
 
 ---
 
-🔮 *AutoGen-Gemini combines the cutting-edge power of Google Gemini LLMs with multi-agent orchestration for next-gen AI workflows.*  
-Ready to start building your own AI ecosystems? 🚀
 
 
